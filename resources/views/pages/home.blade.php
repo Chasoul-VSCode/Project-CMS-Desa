@@ -274,6 +274,10 @@ document.addEventListener('click', function(event) {
 
     <!-- Expenses Card -->
     <div class="bg-white p-4 rounded-lg shadow-md">
+    <div class="bg-blue-50 p-3 rounded-lg">
+    <h3 class="text-sm font-semibold text-gray-500">Total Pengeluaran</h3>
+    <i class="fas fa-users text-blue-500"><p class="text-xl font-size=20px text-black">Rp 112,500,000</p></i>
+    </div>
         <h3 class="text-sm font-semibold text-gray-500">Total Pengeluaran</h3>
         <p class="text-xl font-bold text-gray-800">Rp 112,500,000</p>
         <h3 class="text-sm font-semibold text-gray-500 mt-4">Biaya Operasional</h3>
